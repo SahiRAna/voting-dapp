@@ -1,0 +1,9 @@
+Streaming transaction logs mentioning 5PA6ogk8BsXy9qc7zfNTgCXoT9tNbPWyHtRMJnYySXfW. Confirmed commitment
+Transaction executed in slot 43504:
+  Signature: 5UormBG8iENB9KGJk74by7cn2B26yQWGnF1Tf33gWePyBaeaRCLBrZFDRRfD3Fj3BNkFSmZYnvkAsVaq83t3L6Fi
+  Status: Ok
+  Log Messages:
+    Program 5PA6ogk8BsXy9qc7zfNTgCXoT9tNbPWyHtRMJnYySXfW invoke [1]
+    Program log: Instruction: Vote
+    Program 5PA6ogk8BsXy9qc7zfNTgCXoT9tNbPWyHtRMJnYySXfW consumed 9224 of 200000 compute units
+    Program 5PA6ogk8BsXy9qc7zfNTgCXoT9tNbPWyHtRMJnYySXfW success
